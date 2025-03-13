@@ -170,3 +170,7 @@ df1
 ```
 ![Screenshot 2025-03-13 110153](https://github.com/user-attachments/assets/0ec9c343-04db-4e77-a253-ac208d10337f)
 
+
+### Result
+
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
